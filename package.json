@@ -1,0 +1,14 @@
+{
+  "name": "wordpress_theme_handbook",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "itlaoguo",
+  "license": "ISC",
+  "devDependencies": {
+    "honkit": "^5.1.4"
+  }
+}
